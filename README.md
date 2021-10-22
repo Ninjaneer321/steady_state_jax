@@ -9,4 +9,7 @@ Optimizing quantum non-equilibrium steady state systems using gradient-based met
 
 [arxiv paper](https://arxiv.org/pdf/2103.12604.pdf)
 
+---------------------------------------
+Diagram of the methodology proposed here.
 
+![Diagram](Figures/Rho_ss_diagram_flat.png)
