@@ -25,8 +25,11 @@ We maximize the transport of energy to the reaction center (RC) using gradient d
 All simulations were carried in [JAX](jax.readthedocs.io/). We implemented the vector-Jacobian product to differentiate the steady state to incorporate it in the framework of automatic differentiation. 
 For more details about our work we created a [Google Collab](energy_transfer.ipynb), where we better exaplain the details of our work. 
 
+
+[![Foo](Figures/colab_favicon_256px.png)](energy_transfer.ipynb)
 ---------------------------------------
-**other systems**: We also optimized a three level quantum heat transfer model using gradient based methods too. For more details please check our [arxiv paper](https://arxiv.org/pdf/2103.12604.pdf). 
+**other systems**: 
+We also optimized a three level quantum heat transfer model using gradient based methods. For more details, check our [arxiv paper](https://arxiv.org/pdf/2103.12604.pdf). 
 
 ![Diagram](Figures/V_system_Dvira.png)
 
