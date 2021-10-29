@@ -20,7 +20,9 @@ For a V-system,
 
 We maximize the transport of energy to the reaction center (RC) using gradient descent,
 
-![Diagram](Figures/Adam_opt_n_loc_gamma_d_Gamma_arrow.png)
+<!---![Diagram](Figures/Adam_opt_n_loc_gamma_d_Gamma_arrow.png)-->
+
+![Kenny_system_GA_loc_eff](https://user-images.githubusercontent.com/32406514/139455706-96700922-f394-4ee1-b45f-0c4222abb420.gif)
 
 All simulations were carried in [JAX](jax.readthedocs.io/). We implemented the vector-Jacobian product to differentiate the steady state to incorporate it in the framework of automatic differentiation. 
 For more details about our work we created a [Google Collab](energy_transfer.ipynb), where we better exaplain the details of our work. 
