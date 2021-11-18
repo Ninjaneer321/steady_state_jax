@@ -4,8 +4,8 @@ authors:
 - family-names: "Rodrigo A"
   given-names: "Vargas-Hernández"
   orcid: "https://orcid.org/0000-0002-5559-6521"
-- family-names: "Ricky "
-  given-names: "T Q Chen"
+- family-names: "Ricky T Q"
+  given-names: "Chen"
 title: "steady_state_jax"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
